@@ -1,6 +1,6 @@
-# ohos-bst-light
+# ohos-selfsign
 
-`binary-sign-tool` 轻量重写版 —— 基于 `binary-sign-tool` 开源代码逆向分析出二进制自签名算法后，用多种语言分别重写签名工具实现。
+轻量级 OpenHarmony 二进制自签名工具 —— 基于 `binary-sign-tool` 开源代码逆向分析出二进制自签名算法后，用多种语言分别重写签名工具实现。
 
 ## 用法
 

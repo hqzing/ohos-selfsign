@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2026 hqzing
  * SPDX-License-Identifier: 0BSD
- * Repository: https://github.com/hqzing/ohos-bst-light
+ * Repository: https://github.com/hqzing/ohos-selfsign
  *
  * Licensed under the BSD Zero Clause License.
  */
